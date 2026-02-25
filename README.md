@@ -53,6 +53,31 @@ ________________________________________________________________________________
 🛠️ Repositorio del proyecto
 - Github --> https://github.com/jpraden/Challenge-DataScience-AluraLatamStore/AluraStoreLatam.ipynb
 
+
+- Estructura Carpetas en GitHub
+/Challenge-DataScience-AluraLatamStore
+ - AluraStoreLatam.ipynb
+ - README.md
+ /base-de-datos-challenge1-latam
+  - tienda_1.csv
+  - tienda_2.csv
+  - tienda_3.csv
+  - tienda_4.csv
+ /Graficos
+  - BoxPlot_CostosEnvios.png
+  - BoxPlot_CostosEnvios_Calificacion.png
+  - Grafico1_ParticipaciónVentas.png
+  - Grafico2_IngresoTotalesPorTienda.png
+  - Grafico3_IngresoPromedio.png
+  - Grafico4_CostoEnvios.png
+  - GraficoDispersion_CadaTienda.png
+  - GraficoDispersion_TodaTienda.png
+  - GraficoIngresoTotalesAcumulado.png
+  - GraficoMapasDesempeño.png
+  - TendenciaSuavizadaVentasMensuales.png
+
+___________________________________________________________________________________________________________-
+
 🚀 Ejecución del proyecto
 - Opción 1: 
   * Abrir cuaderno desde Google Colab (Recomendado)
@@ -263,7 +288,6 @@ ________________________________________________________________________________
 
 ![Gráfico BoxPlotCostoEnviosCalificacion](/Graficos/BoxPlot_CostosEnvios_Calificacion.png)
 
-![Gráfico MapaDesempeñoVentas](/Graficos/GraficoMapasDesempeño.png)
 
 ________________________________________________________________________________________________
 ________________________________________________________________________________________________
@@ -292,13 +316,16 @@ Genere gráficos de dispersión o mapas de calor (Heatmaps) para visualizar dato
 
 Explore si algunas tiendas tienen un rendimiento superior o inferior al esperado en determinadas regiones e identifique si existen patrones geográficos que puedan influir en el rendimiento de las tiendas.
 
+![Gráfico MapaDesempeñoVentas](/Graficos/GraficoMapasDesempeño.png)
 
-![alt text](image-10.png)
+**Los patrones de concentración de ventas:**
+
+Están en Bogotá, Medellín y Cali se mantienen prominentes.
+Al explorar los marcadores individuales, podemos comenzar a observar si ciertas tiendas o productos tienen una mayor presencia en estas áreas de alta densidad de ventas.
+Esta interactividad es clave para comprender no solo dónde ocurren las ventas, sino también qué tipo de ventas (por ejemplo, productos de alto valor, calificaciones específicas) contribuyen a la densidad en cada región, lo que puede informar estrategias de inventario y marketing más precisas.
 
 
 ________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 
 
-
-[def]: image-4.png
