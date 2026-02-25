@@ -243,27 +243,27 @@ ________________________________________________________________________________
 
 -  VISUALIZACION - Generando gráficos.
 
-![Gráfico1](../Challenge-DataScience-AluraLatamStore/Graficos/Grafico1_ParticipaciónVentas.png)
+![Gráfico1](/Graficos/Grafico1_ParticipaciónVentas.png)
 
-![Gráfico2](../Challenge-DataScience-AluraLatamStore/Graficos/Grafico2_IngresoTotalesPorTienda.png)
+![Gráfico2](/Graficos/Grafico2_IngresoTotalesPorTienda.png)
 
-![Gráfico3](../Challenge-DataScience-AluraLatamStore/Graficos/Grafico3_IngresoPromedio.png)
+![Gráfico3](/Graficos/Grafico3_IngresoPromedio.png)
 
-![Gráfico4](../Challenge-DataScience-AluraLatamStore/Graficos/Grafico4_CostoEnvios.png)
+![Gráfico4](/Graficos/Grafico4_CostoEnvios.png)
 
-![Gráfico Dispersión por tienda](../Challenge-DataScience-AluraLatamStore/Graficos/GraficoDispersion_CadaTienda.png)
+![Gráfico Dispersión por tienda](/Graficos/GraficoDispersion_CadaTienda.png)
 
-![Gráfico Dispersión consolidado](../Challenge-DataScience-AluraLatamStore/Graficos/GraficoDispersion_TodaTienda.png)
+![Gráfico Dispersión consolidado](/Graficos/GraficoDispersion_TodaTienda.png)
 
-![Gráfico Tendencia](../Challenge-DataScience-AluraLatamStore/Graficos/TendenciaSuavizadaVentasMensuales.png)
+![Gráfico Tendencia](/Graficos/TendenciaSuavizadaVentasMensuales.png)
 
-![Gráfico TotalIngresosAcumulado](../Challenge-DataScience-AluraLatamStore/Graficos/GraficoIngresoTotalesAcumulado.png)
+![Gráfico TotalIngresosAcumulado](/Graficos/GraficoIngresoTotalesAcumulado.png)
 
-![Gráfico BoxPlotCostoEnvios](../Challenge-DataScience-AluraLatamStore/Graficos/BoxPlot_CostosEnvios.png)
+![Gráfico BoxPlotCostoEnvios](/Graficos/BoxPlot_CostosEnvios.png)
 
-![Gráfico BoxPlotCostoEnviosCalificacion](../Challenge-DataScience-AluraLatamStore/Graficos/BoxPlot_CostosEnvios_Calificacion.png)
+![Gráfico BoxPlotCostoEnviosCalificacion](/Graficos/BoxPlot_CostosEnvios_Calificacion.png)
 
-![Gráfico MapaDesempeñoVentas](../Challenge-DataScience-AluraLatamStore/Graficos/GraficoMapasDesempeño.png)
+![Gráfico MapaDesempeñoVentas](/Graficos/GraficoMapasDesempeño.png)
 
 ________________________________________________________________________________________________
 ________________________________________________________________________________________________
