@@ -54,27 +54,27 @@ ________________________________________________________________________________
 - Github --> https://github.com/jpraden/Challenge-DataScience-AluraLatamStore/AluraStoreLatam.ipynb
 
 
-- Estructura Carpetas en GitHub
+🛠️ Estructura Carpetas en GitHub
 /Challenge-DataScience-AluraLatamStore
- - AluraStoreLatam.ipynb
- - README.md
- /base-de-datos-challenge1-latam
-  - tienda_1.csv
-  - tienda_2.csv
-  - tienda_3.csv
-  - tienda_4.csv
- /Graficos
-  - BoxPlot_CostosEnvios.png
-  - BoxPlot_CostosEnvios_Calificacion.png
-  - Grafico1_ParticipaciónVentas.png
-  - Grafico2_IngresoTotalesPorTienda.png
-  - Grafico3_IngresoPromedio.png
-  - Grafico4_CostoEnvios.png
-  - GraficoDispersion_CadaTienda.png
-  - GraficoDispersion_TodaTienda.png
-  - GraficoIngresoTotalesAcumulado.png
-  - GraficoMapasDesempeño.png
-  - TendenciaSuavizadaVentasMensuales.png
+    - AluraStoreLatam.ipynb
+    - README.md
+    /base-de-datos-challenge1-latam
+        - tienda_1.csv
+        - tienda_2.csv
+        - tienda_3.csv
+        - tienda_4.csv
+    /Graficos
+      - BoxPlot_CostosEnvios.png
+      - BoxPlot_CostosEnvios_Calificacion.png
+      - Grafico1_ParticipaciónVentas.png
+      - Grafico2_IngresoTotalesPorTienda.png
+      - Grafico3_IngresoPromedio.png
+      - Grafico4_CostoEnvios.png
+      - GraficoDispersion_CadaTienda.png
+      - GraficoDispersion_TodaTienda.png
+      - GraficoIngresoTotalesAcumulado.png
+      - GraficoMapasDesempeño.png
+      - TendenciaSuavizadaVentasMensuales.png
 
 ___________________________________________________________________________________________________________-
 
